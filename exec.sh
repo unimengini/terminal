@@ -7,4 +7,5 @@ timestamp(){
    date +"%d.%m.%Y um %H:%M"
 }
 git commit -am "Auto Server Commit $(timestamp)"
+git pull
 git push --set-upstream https://unimengini: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@github.com/unimengini/terminal.git master
