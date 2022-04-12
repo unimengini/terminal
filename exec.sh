@@ -8,4 +8,4 @@ timestamp(){
 }
 git commit -am "Auto Server Commit $(timestamp)"
 git pull --allow-unrelated-histories
-git push --set-upstream https://unimengini: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@github.com/unimengini/terminal.git master
+git push --set-upstream https://unimengini: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@github.com/unimengini/terminal.git master
