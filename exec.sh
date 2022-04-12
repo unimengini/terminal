@@ -2,7 +2,8 @@
 mkdir /home/user/Desktop/tmp
 cd /home/user/Desktop/tmp 
 date >> time.txt
-git pull tmp master
+git remote add origin https://github.com/unimengini/terminal.git
+git pull origin master
 git add *
 timestamp(){
    date +"%d.%m.%Y um %H:%M"
