@@ -2,7 +2,7 @@
 mkdir /home/user/Desktop/tmp
 cd /home/user/Desktop/tmp 
 date >> time.txt
-git pull origin master
+git pull tmp master
 git add *
 timestamp(){
    date +"%d.%m.%Y um %H:%M"
