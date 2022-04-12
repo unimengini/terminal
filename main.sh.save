@@ -1,6 +1,0 @@
-!/bin/bash
-echo "Give your name warrior(optional): "
-read name
-echo $name >> $random.txt
-echo "give a secret code"
-read code
